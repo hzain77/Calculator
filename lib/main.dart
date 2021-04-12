@@ -12,7 +12,7 @@ class Calculator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "MYCalculator",
+      title: "Calculator",
       theme: ThemeData(primarySwatch: Colors.blue),
       home: SimpleCalculator(),
     );
